@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"github.com/vioblex/storage/internal/file"
+	"github.com/vioblex/storage/v2/internal/file"
 )
 
 type Storage struct {

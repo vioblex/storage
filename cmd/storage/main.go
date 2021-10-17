@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/vioblex/storage/internal/storage"
+	"github.com/vioblex/storage/v2/internal/storage"
 )
 
 func main() {

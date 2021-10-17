@@ -1,4 +1,4 @@
-module github.com/vioblex/storage
+module github.com/vioblex/storage/v2
 
 go 1.17
 
